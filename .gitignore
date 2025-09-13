@@ -1,0 +1,17 @@
+/target
+
+
+# IDEs & editors
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS / miscellaneous
+.DS_Store
+Thumbs.db
+
+# Env / secrets
+.env
+.env.*
+!.env.example
